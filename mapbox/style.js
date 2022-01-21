@@ -38,7 +38,7 @@ var styleJSON = {
             "type": "circle",
             "source": "MainzSpots_1",
             "layout": {},
-            "paint": {'circle-radius': ['/', 14.285714285714285, 2], 'circle-color': '#f7f7f7', 'circle-opacity': 1.0, 'circle-stroke-width': 1.4285714285714286, 'circle-stroke-color': '#535353'}
+            "paint": {'circle-radius': ['/', 14.285714285714285, 2], 'circle-color': '#ffffff', 'circle-opacity': 1.0, 'circle-stroke-width': 1.4285714285714286, 'circle-stroke-color': '#000000'}
         }
 ],
 }
